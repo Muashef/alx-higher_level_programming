@@ -1,4 +1,4 @@
-#!/usr/python3
+#!/usr/bin/python3
 """This program create a new int called MyInt and is rebel!!!"""
 
 
